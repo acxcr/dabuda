@@ -1,0 +1,1 @@
+// 这个文件现在为空，因为useContract函数已经在useWeb3.js中定义 
